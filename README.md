@@ -23,7 +23,7 @@ The project was developed in multiple stages, with systematic improvements.
 - Improved generalization with **data augmentation**.
 - Achieved **85.16% test accuracy**.
 
-### Stage 3: Transfer Learning with ResNet50 (95.44% Accuracy)
+### Stage 3: Transfer Learning with ResNet50 (95.87% Accuracy)
 - Integrated **ResNet50 as a feature extractor** with fine-tuning enabled.
 - Replaced the final layers with **custom dense layers** optimized for CIFAR-10.
 - Applied **Global Average Pooling** instead of Flatten for better efficiency.
