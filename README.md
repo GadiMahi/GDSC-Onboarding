@@ -1,5 +1,3 @@
-Here is the rectified version of your README file, ensuring that the Training the Model and Evaluation sections are properly formatted for direct copy-pasting.
-
 # CIFAR-10 Image Classification using Convolutional Neural Networks and Transfer Learning
 
 ## Project Overview
